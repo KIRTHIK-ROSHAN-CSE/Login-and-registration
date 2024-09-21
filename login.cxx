@@ -29,13 +29,13 @@ int main()
   	case 1:
   	       login();
   	       break;
-  	 case2:
+  	 case 2:
   	         registration();
   	         break;
-       case3:
+       case 3:
   	         forgot();
   	         break;
-  	   case4:
+  	   case 4:
   	         cout<<"\t\t\t  thank you!   \n\n";
   	         break;
   	     default:
